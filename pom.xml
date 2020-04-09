@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.github.warren30815</groupId>
-	<artifactId>A082608-CI-test</artifactId>
+	<artifactId>A082608-CI-test-</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>A082608-CI-test</name>
+	<name>A082608-CI-test-</name>
 
 	<dependencies>
 
@@ -56,7 +56,7 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-					<finalName>A082608-CI-test</finalName>
+					<finalName>A082608-CI-test-</finalName>
 					<appendAssemblyId>false</appendAssemblyId>
 				</configuration>
 				<executions>
