@@ -1,6 +1,7 @@
 A082608-CI-test-
 
-Success:
+# Success log:
+```
 $ mvn clean test
 [INFO] Scanning for projects...
 [INFO] 
@@ -62,9 +63,10 @@ Tests run: 20, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 The command "mvn clean test" exited with 0.
 Done. Your build exited with 0.
+```
 
-
-Fail:
+# Fail log:
+```
 5.11s$ mvn clean test
 [INFO] Scanning for projects...
 [INFO] 
@@ -181,3 +183,4 @@ Tests run: 20, Failures: 1, Errors: 0, Skipped: 0
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
 The command "mvn clean test" exited with 1.
 Done. Your build exited with 1.
+```
