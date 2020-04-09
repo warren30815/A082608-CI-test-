@@ -1,5 +1,3 @@
-A082608-CI-test-
-
 # Success log:
 ```
 $ mvn clean test
