@@ -4,6 +4,7 @@
 
 	<groupId>warren30815</groupId>
 	<artifactId>A082608-CI-test-</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<dependencies>
