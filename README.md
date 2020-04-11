@@ -1,7 +1,7 @@
 軟體測試hw4 學號: A082608 清華大學資工碩一 許竣翔
 作業要求: https://docs.google.com/presentation/d/1DSOnUOQmUzUnzbTmb3gPKDrk0YFkwr0stLKDW6CRRS8/edit#slide=id.g8323026cdb_0_51
 
-[![Build Status](https://travis-ci.com/warren30815/A082608-CI-test-.svg?branch=master)](https://travis-ci.com/warren30815/A082608-CI-test-)
+[![Build Status](https://travis-ci.org/warren30815/A082608-CI-test-.svg?branch=master)](https://travis-ci.org/warren30815/A082608-CI-test-)
 
 # Success log:
 ```
